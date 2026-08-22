@@ -34,7 +34,7 @@ DSA/
 
 | Status | Topic | Description | Solutions |
 | :---: | :--- | :--- | :--- |
-| 🔄 | [Arrays](Arrays/) | Linear arrays, two pointers, prefix sums, sliding window | [1 Solution](Arrays/) |
+| 🔄 | [Arrays](Arrays/) | Linear arrays, two pointers, prefix sums, sliding window | [2 Solutions](Arrays/) |
 | ⏳ | [Strings](Strings/) | String manipulation, anagrams, pattern matching | [0 Solutions](Strings/) |
 | ⏳ | [LinkedList](LinkedList/) | Singly/Doubly linked lists, cycle detection, reversal | [0 Solutions](LinkedList/) |
 | ⏳ | [Stack](Stack/) | Monotonic stack, expression evaluation, parentheses | [0 Solutions](Stack/) |

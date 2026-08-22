@@ -11,4 +11,5 @@ An array is a linear data structure that stores elements of the same data type i
 
 | Problem / Algorithm | Java File | Time Complexity | Space Complexity |
 | :--- | :--- | :--- | :--- |
+| **Linear Search** | [LinearSearch.java](LinearSearch.java) | $O(n)$ | $O(1)$ |
 | **Binary Search (Iterative)** | [BinarySearch.java](BinarySearch.java) | $O(\log n)$ | $O(1)$ |
